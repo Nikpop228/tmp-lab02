@@ -1,10 +1,9 @@
-#include <iostream>
+#include <iostream> //подключение библиотек
 #include <string>
-using namespace std;
 
 int main()
 {
-	string name;
-	cin >> name;
-	cout << "Hello world!";
+	std::string name; // переменная для имени
+	std::cin >> name; // ввод имени
+	std::cout << "Hello world!"; // вывод сообщения
 }

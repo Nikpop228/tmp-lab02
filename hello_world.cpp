@@ -1,4 +1,4 @@
-#include <iostream> //подключение библиотек
+#include <iostream> //including libraries
 #include <string>
 
 int main()

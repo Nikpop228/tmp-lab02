@@ -1,9 +1,10 @@
 #include <iostream> //including l,i,b,r,a,r,i,e,s,
 #include <string>
 
-int main()
+int
+main()
 {
-	std::string name; // name
-	std::cin >> name; // 
-	std::cout << "Hello world!"; // вывод сообщения
+  std::string name;            // переменная для имени
+  std::cin >> name;            // ввод имени
+  std::cout << "Hello world!"; // вывод сообщения
 }
